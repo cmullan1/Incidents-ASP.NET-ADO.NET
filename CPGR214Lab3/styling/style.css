@@ -1,0 +1,30 @@
+﻿/*  
+    CPRG 214 Lab 3
+    Author:  Corinne Mullan
+    Date:    July 24, 2018
+*/
+
+body {
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.ddl {
+    padding: 5px;
+}
+
+.gv {
+    padding: 5px;
+}
+
+.gv th {
+    padding: 10px;
+    background-color: lightblue;
+}
+
+.gv td {
+    padding: 10px;
+}
